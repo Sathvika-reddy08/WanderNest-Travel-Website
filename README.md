@@ -4,4 +4,4 @@
 <a href="https://wander-nest-travel-website.vercel.app" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-
+<img src="https://github.com/Sathvika-reddy08/WanderNest-Travel-Website/blob/main/readme%20images/readme-image.jpg"></img>
